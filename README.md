@@ -25,11 +25,15 @@ Follow these steps to build the project using CMake:
    ```sh
    git clone https://github.com/pat-RR-ick/ftxui-trading-terminal-example
 
-mkdir build
-cd build
+2. **Install**:
 
-cmake ..
-
-make
-
-./ftxui_trading_terminal_example
+   ```sh
+   mkdir build
+   
+   cd build
+   
+   cmake ..
+   
+   make
+   
+   ./ftxui_trading_terminal_example
