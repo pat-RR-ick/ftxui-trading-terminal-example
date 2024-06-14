@@ -36,4 +36,4 @@ Follow these steps to build the project using CMake:
    
    make
    
-   ./ftxui_trading_terminal_example
+   ./home_screen
